@@ -6,7 +6,7 @@ This repo is the pattern library of a web app I worked on.
 
 I plan on using this template for future pattern libraries my clients may ask for but feel free to use these files.
 
-Built from good ole html & css here.
+Built from good ole html & css.
 
 # Note
 
