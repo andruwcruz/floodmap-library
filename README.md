@@ -1,6 +1,6 @@
 # Flood Map Pattern Library
 
-!(https://github.com/andruwcruz/floodmap-library/blob/master/floodmap-cover.png)
+! (https://github.com/andruwcruz/floodmap-library/blob/master/floodmap-cover.png)
 
 
 # License
