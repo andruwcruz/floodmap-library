@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="57px" viewBox="0 0 375 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>default search bar - mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="1" width="375" height="56"></rect>
+        <filter x="-0.1%" y="-0.4%" width="100.1%" height="100.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="375" height="56"></rect>
+        <filter x="-0.1%" y="-0.4%" width="100.1%" height="100.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-0.5" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components" transform="translate(-773.000000, -677.000000)">
+            <g id="full-search-bar---mobile" transform="translate(773.000000, 677.000000)">
+                <g>
+                    <g id="Bounding-Box">
+                        <use fill="#E3E3E3" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Bounding-Box">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Group" transform="translate(8.000000, 8.000000)">
+                        <rect id="Text-Box" stroke="#E3E3E3" fill="#FFFFFF" x="0.5" y="0.5" width="358" height="37" rx="2"></rect>
+                        <g id="menu-icon" transform="translate(16.000000, 13.000000)" stroke="#3D96F7" stroke-linecap="square">
+                            <g id="Line">
+                                <path d="M0,12 L20,12" stroke-width="2"></path>
+                                <path d="M0,6 L20,6" stroke-width="2"></path>
+                                <path d="M0,5.68434189e-14 L20,0" stroke-width="2"></path>
+                            </g>
+                        </g>
+                        <text id="text-field" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#000000">
+                            <tspan x="64" y="24.0900474">2233 NW 3rd St Miami, FL 33125</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

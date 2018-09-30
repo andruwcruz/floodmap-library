@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="355px" height="180px" viewBox="0 0 355 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>risk score - 2017</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components" transform="translate(-773.000000, -1681.000000)">
+            <g id="neighborhood-flooding---2017" transform="translate(773.000000, 1681.000000)">
+                <g>
+                    <rect id="background" fill="#FFFFFF" x="0" y="0" width="355" height="180"></rect>
+                    <text id="a" font-family="OpenSans-Extrabold, Open Sans" font-size="12" font-weight="600" letter-spacing="1.33000004" fill="#9B9B9B">
+                        <tspan x="263.084765" y="157">2022 - 98%</tspan>
+                    </text>
+                    <text id="a" font-family="OpenSans-Extrabold, Open Sans" font-size="12" font-weight="600" letter-spacing="1.33000004" fill="#9B9B9B">
+                        <tspan x="263.084765" y="132">2027 - 98%</tspan>
+                    </text>
+                    <text id="a:active" font-family="OpenSans-Extrabold, Open Sans" font-size="12" font-weight="600" letter-spacing="1.33000004" fill="#9B9B9B">
+                        <tspan x="263.084765" y="107">2022 - 95%</tspan>
+                    </text>
+                    <text id="a" font-family="OpenSans-Extrabold, Open Sans" font-size="12" font-weight="600" letter-spacing="1.333333" fill="#3D96F7">
+                        <tspan x="263" y="82">2017 - 85%</tspan>
+                    </text>
+                    <text id="span" font-family="OpenSans, Open Sans" font-size="12" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="14" y="82">85% of your neighborhood could get </tspan>
+                        <tspan x="14" y="99">flooded if a category 3 hurricane hit </tspan>
+                        <tspan x="14" y="116">in 2017. You may not be flooded but </tspan>
+                        <tspan x="14" y="133">your community's risk directly relates </tspan>
+                        <tspan x="14" y="150">to your homes value. </tspan>
+                    </text>
+                    <rect id="hr" fill="#E3E3E3" x="0" y="53" width="355" height="1"></rect>
+                    <g id="help-icon" transform="translate(323.000000, 18.000000)">
+                        <g>
+                            <circle id="Oval-5" fill="#4285F4" cx="8.5" cy="8.5" r="8.5"></circle>
+                            <text id="?" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="6" y="12">?</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="h3" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#000000">
+                        <tspan x="14" y="32">2017 Neighborhood Flooding - 85%</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

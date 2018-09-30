@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="177px" height="180px" viewBox="0 0 177 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>flooded areas</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components" transform="translate(-773.000000, -875.000000)">
+            <g id="flooded-areas" transform="translate(773.000000, 875.000000)">
+                <g>
+                    <rect id="Rectangle-4" fill="#FFFFFF" x="0" y="0" width="177" height="180"></rect>
+                    <rect id="hr" fill="#E3E3E3" x="0" y="53" width="177" height="1"></rect>
+                    <g id="3+-feet" transform="translate(15.000000, 141.000000)">
+                        <text font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#000000">
+                            <tspan x="104" y="14">3+ feet </tspan>
+                        </text>
+                        <rect id="Rectangle-3" fill="#5B2CFF" x="0" y="0" width="38" height="19"></rect>
+                    </g>
+                    <g id="2---3-feet" transform="translate(15.000000, 117.000000)">
+                        <text id="&lt;b&gt;-span" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#000000">
+                            <tspan x="97" y="14">2 - 3 feet</tspan>
+                        </text>
+                        <rect id="Rectangle-3" fill="#F33098" x="0" y="0" width="37" height="19"></rect>
+                    </g>
+                    <g id="1---2-feet" transform="translate(15.000000, 93.000000)">
+                        <rect id="Rectangle-3" fill="#2CFFF1" x="0" y="0" width="37" height="19"></rect>
+                        <text id="&lt;b&gt;-span" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#000000">
+                            <tspan x="97" y="14">1 - 2 feet</tspan>
+                        </text>
+                    </g>
+                    <g id="&lt;1-foot" transform="translate(15.000000, 69.000000)">
+                        <rect id="Rectangle-3" fill="#C2FF1B" x="0" y="0" width="37" height="19"></rect>
+                        <text id="&lt;b&gt;-span" font-family="OpenSans-Semibold, Open Sans" font-size="12" font-weight="500" fill="#000000">
+                            <tspan x="106" y="14">&lt;1 foot</tspan>
+                        </text>
+                    </g>
+                    <g id="help-icon" transform="translate(145.000000, 18.000000)">
+                        <g>
+                            <circle id="Oval-5" fill="#4285F4" cx="8.5" cy="8.5" r="8.5"></circle>
+                            <text id="?" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="6" y="12">?</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="h3" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" fill="#000000">
+                        <tspan x="15" y="32">Flooded Areas</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

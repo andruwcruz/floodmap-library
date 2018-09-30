@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="351px" viewBox="0 0 375 351" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>flooded areas - mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components" transform="translate(-333.000000, -875.000000)">
+            <g id="flooded-areas---mobile" transform="translate(333.000000, 875.000000)">
+                <g>
+                    <g id="card" fill-rule="nonzero">
+                        <path d="M10,0 L365,0 C370.522847,-1.01453063e-15 375,4.4771525 375,10 L375,351 L0,351 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+                        <rect id="Rectangle-2" fill="#D8D8D8" x="174" y="9" width="28" height="4" rx="2"></rect>
+                    </g>
+                    <g id="pagination" transform="translate(165.000000, 281.000000)">
+                        <g id="Oval-3">
+                            <circle fill="#D8D8D8" fill-rule="nonzero" cx="43" cy="3" r="3"></circle>
+                            <circle fill="#D8D8D8" fill-rule="nonzero" cx="29.6666667" cy="3" r="3"></circle>
+                            <circle fill="#D8D8D8" fill-rule="nonzero" cx="16.3333333" cy="3" r="3"></circle>
+                            <circle fill="#4A4A4A" fill-rule="nonzero" cx="3" cy="3" r="3"></circle>
+                        </g>
+                    </g>
+                    <text id="&lt;b&gt;-span" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" line-spacing="28" letter-spacing="0.168" fill="#000000">
+                        <tspan x="307.490016" y="241">3+ feet </tspan>
+                    </text>
+                    <text id="&lt;b&gt;-span" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" line-spacing="28" letter-spacing="0.168" fill="#000000">
+                        <tspan x="295" y="212">2 - 3 feet</tspan>
+                    </text>
+                    <text id="&lt;b&gt;-span" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" line-spacing="28" letter-spacing="0.168" fill="#000000">
+                        <tspan x="295" y="183">1 - 2 feet</tspan>
+                    </text>
+                    <text id="&lt;b&gt;-span" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500" line-spacing="28" letter-spacing="0.168" fill="#000000">
+                        <tspan x="306" y="154">&lt;1 foot</tspan>
+                    </text>
+                    <g id="3+-feet/purple" transform="translate(20.000000, 232.000000)" fill="#5B2CFF">
+                        <rect id="3+-feet" x="0" y="0" width="225" height="19"></rect>
+                    </g>
+                    <g id="2---3-feet/pink" transform="translate(20.000000, 203.000000)" fill="#F33098">
+                        <rect id="2---3-feet" x="0" y="0" width="225" height="19"></rect>
+                    </g>
+                    <g id="1---2-feet/aqua" transform="translate(20.000000, 174.000000)" fill="#2CFFF1">
+                        <rect id="1---2-feet" x="0" y="0" width="225" height="19"></rect>
+                    </g>
+                    <g id="&lt;1-foot/green" transform="translate(20.000000, 145.000000)" fill="#C2FF1B">
+                        <rect id="&lt;1-foot" x="0" y="0" width="225" height="19"></rect>
+                    </g>
+                    <g id="help-icon" transform="translate(333.000000, 108.000000)">
+                        <g>
+                            <circle id="Oval-5" fill="#4285F4" cx="8.5" cy="8.5" r="8.5"></circle>
+                            <text id="?" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="6" y="12">?</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="h3" font-family="OpenSans-Semibold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                        <tspan x="20" y="123">Flooded Areas</tspan>
+                    </text>
+                    <rect id="hr" fill="#E3E3E3" x="0" y="93" width="375" height="1"></rect>
+                    <text id="span" font-family="OpenSans-Light, Open Sans" font-size="14" font-weight="300" letter-spacing="0.168" fill="#000000">
+                        <tspan x="20" y="65">Category 3 Hurricane</tspan>
+                    </text>
+                    <text id="h3" font-family="OpenSans-Semibold, Open Sans" font-size="16" font-weight="500" fill="#000000">
+                        <tspan x="20" y="42">Your Property is at Risk of Flooding!</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

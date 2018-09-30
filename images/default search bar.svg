@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="48px" viewBox="0 0 420 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>default search bar </title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Library" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components" transform="translate(-333.000000, -855.000000)">
+            <g id="default-search-bar-" transform="translate(333.000000, 855.000000)">
+                <rect id="input" stroke="#E3E3E3" fill="#FFFFFF" x="0.5" y="0.5" width="419" height="47" rx="2"></rect>
+                <text id="a" font-family="OpenSans-Semibold, Open Sans" font-size="16" font-weight="500" fill="#4A90E2">
+                    <tspan x="59.171875" y="29">Click here to view your flood risk. </tspan>
+                </text>
+                <g id="search-icon" transform="translate(18.000000, 15.000000)" stroke="#B2B2B2">
+                    <g>
+                        <path d="M11.8483496,11.4947962 L17.5052038,17.1516504" id="Line" stroke-width="2" stroke-linecap="square"></path>
+                        <circle id="Oval-4" stroke-width="2" cx="7.5" cy="7.5" r="6"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
