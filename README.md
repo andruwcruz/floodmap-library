@@ -1,6 +1,6 @@
 # Flood Map Pattern Library
 
-![floodmap-library](https://github.com/andruwcruz/floodmap-library/blob/master/floodmap-cover.png)
+![floodmap-library](https://raw.githubusercontent.com/andruwcruz/floodmap-library/master/images/floodmap-cover.png)
 
 This repo is the pattern library of a web app I worked on.
 
