@@ -8,9 +8,9 @@ I plan on using this template for future pattern libraries my clients may ask fo
 
 Built from good ole html & css.
 
-# Note
+## Note
 
 If you want to see the pattern library live, please check it out [here](http://floodiq.andruwcruz.com)!
 
-# License
+## License
 The content of this project itself is licensed under the Creative Commons Attribution 3.0 Unported license, and the underlying source code used to format and display that content is licensed under the MIT license.
